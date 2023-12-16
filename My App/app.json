@@ -27,6 +27,6 @@
   "description": "Hello World sample app for AppSource",
   "help": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
   "privacyStatement": "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
-  "version": "1.0.0.0",
+  "version": "2.0.0.0",
   "logo": "helloworld256x240.png"
 }
